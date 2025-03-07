@@ -24,5 +24,5 @@ Este projeto foi criado como um teste para explorar a integração entre **Pytho
 
 ---
 
-Gostou do projeto? Fique à vontade para contribuir! 💙✂️  
+Gostou do projeto? Fique à vontade para contribuir! 🖖🏻🚀
 
